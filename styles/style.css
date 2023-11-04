@@ -13,6 +13,7 @@ body {
     position: relative;
     display: flex;
     min-width: 800px;
+    margin: 0;
 }
 
 .body::before {
